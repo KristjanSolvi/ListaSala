@@ -1,8 +1,5 @@
 # Listavefsala
 
-## Codex
-This website was made to test the new Codex model.
-
 Swipe-first marketplace concept for emerging Icelandic artists. Visitors browse art Tinder-style, save favourites to a Pinterest-like collection, and complete lightweight checkout directly with artists.
 
 ## Run locally
@@ -27,3 +24,5 @@ npm run dev
 - Next.js App Router (React 18)
 - TypeScript
 - Local storage powered context providers
+
+This website was made to test the new Codex model.
