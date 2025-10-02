@@ -1,5 +1,8 @@
 # Listavefsala
 
+## Codex
+This website was made to test the new Codex model.
+
 Swipe-first marketplace concept for emerging Icelandic artists. Visitors browse art Tinder-style, save favourites to a Pinterest-like collection, and complete lightweight checkout directly with artists.
 
 ## Run locally
